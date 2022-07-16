@@ -1,8 +1,12 @@
+html {}
+
+* {}
+
 body {
   background-color: #fdf6e3;
 }
 
-header , footer {
+header, footer {
   font-size: 1.5rem;
 }
 
